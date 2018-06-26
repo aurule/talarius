@@ -29,11 +29,7 @@ gulp.task("css", () => (
   gulp.src("./src/css/*.css")
     .pipe(postcss([
       cssImport({from: "./src/css/main.css"}),
-      cssnext({
-        features: {
-          warnForDuplicates: false
-        }
-      }),
+      cssnext(),
       cssnano(),
     ]))
     .pipe(gulp.dest("./dist/css"))
