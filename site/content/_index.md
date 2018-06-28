@@ -1,16 +1,8 @@
----
-title: "Talarius Home"
-lastmod: "2018-06-25"
-weight: 1
-type: "page"
-creatordisplayname: "Peter Andrews"
-creatoremail: ""
-date: "2018-06-25"
----
- 
 # Talarius Gaming Group
 
 Welcome to the home of the Talarius Gaming Group! We're a group of students, alumni, and friends who play tabletop games together. Many of us are from the University of Rochester and are past or current members of [URSGA](http://ursga.org/). This collaborative site hosts information and resources for the games we run and play in.
+
+The header content needs to stay, please.
 
 ## Current Games
 
