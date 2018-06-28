@@ -13,4 +13,8 @@ collections:
         label: "Home Page"
         name: "home"
         fields:
+          - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Last Modified", name: "lastmod", widget: "date"}
+          - {label: "Weight", name: "weight", widget: "hidden", default: 1}
+          - {label: "Type", name: "type", widget: "hidden", default: "page"}
